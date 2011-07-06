@@ -1,0 +1,4 @@
+smtp server: smtp.gmail.com
+imap server: imap.gmail.com
+smtp port: 587
+

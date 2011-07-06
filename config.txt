@@ -1,0 +1,3 @@
+include config_dedka.repka.txt
+timeframe in days: 1
+local directory: /home/natasha/mail_utility/LocalStorage1
